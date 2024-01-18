@@ -6,6 +6,8 @@
 
 ![leafarViana GitHub stats](https://github-readme-stats.vercel.app/api?username=leafarViana&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leafarViana)](https://github.com/leafarViana/github-readme-stats)
+
 ## Tecnologias que estou estudando
 
 <div style="display: inline_block"><br/>
